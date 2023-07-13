@@ -2,6 +2,7 @@ local servers = {
   "lua_ls",
 	"pyright",
 	"jsonls",
+  "jdtls",
 }
 
 local settings = {
