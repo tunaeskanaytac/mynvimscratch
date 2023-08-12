@@ -3,6 +3,7 @@ local servers = {
 	"pyright",
     "jsonls",
     "jdtls",
+    "csharp_ls",
 }
 
 local settings = {
